@@ -1,6 +1,8 @@
 Responsive Landing Page A modern, responsive landing page built with HTML5 and CSS3. This project demonstrates clean structure, flexible layouts, and mobile-friendly navigation—perfect as a template for personal or business websites.
 
 🚀 Features Responsive Design: Looks great on desktops, tablets, and phones
+![image](https://github.com/user-attachments/assets/01fbc3a4-cad6-400d-819d-c093304e7e69)
+
 
 Modern Layout: Uses Flexbox for easy alignment and spacing
 
@@ -18,7 +20,7 @@ style.css — All styles and responsive rules
 
 🛠️ Getting Started Clone the repository:
 
-bash git clone https://github.com/MrinalManu1/Responsive_webPage.gi cd responsive-landing-page Open the project:
+bash git clone https://github.com/MrinalManu1/Mobile-Friendly-webpage cd responsive-landing-page Open the project:
 
 Open index.html in your web browser to view the landing page.
 
